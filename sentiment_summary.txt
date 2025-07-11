@@ -1,0 +1,53 @@
+Student ID:
+Student ID_sentiment
+Positive    993
+Negative      5
+Neutral       3
+Name: count, dtype: int64
+Well versed with the subject:
+Well versed with the subject_sentiment
+Positive    512
+Neutral     489
+Name: count, dtype: int64
+Explains concepts in an understandable way:
+Explains concepts in an understandable way_sentiment
+Positive    347
+Neutral     331
+Negative    323
+Name: count, dtype: int64
+Use of presentations:
+Use of presentations_sentiment
+Neutral     600
+Negative    218
+Positive    183
+Name: count, dtype: int64
+Degree of difficulty of assignments:
+Degree of difficulty of assignments_sentiment
+Negative    412
+Positive    295
+Neutral     294
+Name: count, dtype: int64
+Solves doubts willingly:
+Solves doubts willingly_sentiment
+Negative    400
+Neutral     303
+Positive    298
+Name: count, dtype: int64
+Structuring of the course:
+Structuring of the course_sentiment
+Negative    386
+Positive    318
+Neutral     297
+Name: count, dtype: int64
+Provides support for students going above and beyond:
+Provides support for students going above and beyond_sentiment
+Negative    387
+Positive    327
+Neutral     287
+Name: count, dtype: int64
+Course recommendation based on relevance:
+Course recommendation based on relevance_sentiment
+Negative    388
+Positive    313
+Neutral     300
+Name: count, dtype: int64
